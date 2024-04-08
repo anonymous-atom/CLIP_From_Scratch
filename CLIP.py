@@ -1,6 +1,7 @@
 import torch
 from torch import nn
 from encoder import TextEncoder, ImageEncoder
+from projection_head import ProjectionHead
 
 # CLIP is image-text multimodal model that uses contrastive learning to learn joint embedding space for images and text.
 # It uses text and image encoder and a projection head to project the embeddings to a joint space.
@@ -21,6 +22,7 @@ class CLIP(nn.Module):
 
         text_features = self.text_projection(text_embed)
         image_features = self.image_projection(image_embed)
+
 
 
 
