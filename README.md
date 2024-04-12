@@ -5,7 +5,7 @@
     <h1 align="center">CLIP_FROM_SCRATCH</h1>
 </p>
 <p align="center">
-    <em>Crafting Vision and Language Intelligence, Effortlessly.</em>
+    <em>Integrating Vision and Language</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/last-commit/anonymous-atom/CLIP_From_Scratch?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
