@@ -2,7 +2,7 @@
   <img src="https://images.openai.com/blob/fbc4f633-9ad4-4dc2-bd94-0b6f1feee22f/overview-a.svg" width="100" />
 </p>
 <p align="center">
-    <h1 align="center">CLIP_FROM_SCRATCH</h1>
+    <h1 align="center">CLIP FROM SCRATCH</h1>
 </p>
 <p align="center">
     <em>Integrating Vision and Language</em>
