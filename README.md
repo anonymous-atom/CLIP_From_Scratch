@@ -26,7 +26,7 @@
 > - [ Getting Started](#-getting-started)
 >   - [ Installation](#-installation)
 > - [ Contributing](#-contributing)
-> - [ TODO ](#-todo)
+> - [ TODO ](#todo)
 ---
 
 ### TODO
