@@ -10,13 +10,12 @@
 <p align="center">
 	<img src="https://img.shields.io/github/last-commit/anonymous-atom/CLIP_From_Scratch?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/anonymous-atom/CLIP_From_Scratch?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/anonymous-atom/CLIP_From_Scratch?style=flat&color=0080ff" alt="repo-language-count">
 <p>
 <p align="center">
-		<em>Developed with the software and tools below.</em>
+		<em>Developed with :</em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
+	<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">	
 </p>
 <hr>
 
@@ -27,7 +26,18 @@
 > - [ Getting Started](#-getting-started)
 >   - [ Installation](#-installation)
 > - [ Contributing](#-contributing)
+> - [ TODO ](#-todo)
 ---
+
+### TODO
+
+- [x] Text Encoder
+- [x] Vision Encoder
+- [x] Projection Matrix
+- [x] Basic Training Script
+- [ ] Make Model GPU Compatible (Just little changes in Text Encoder Part)
+- [ ] Write Distributed training scripts
+- [ ] Add options to switch to custom text and vision encoder
 
 
 ---
