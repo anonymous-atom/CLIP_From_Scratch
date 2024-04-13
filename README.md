@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.openai.com/blob/fbc4f633-9ad4-4dc2-bd94-0b6f1feee22f/overview-a.svg" width="400" />
+  <img src="https://images.openai.com/blob/fbc4f633-9ad4-4dc2-bd94-0b6f1feee22f/overview-a.svg" width="288" />
 </p>
 <p align="center">
     <h1 align="center">CLIP FROM SCRATCH</h1>
