@@ -46,7 +46,6 @@
 
 ##  Modules
 
-<details closed><summary></summary>
 
 | File                                                                                                     | Summary                                                                                                                                                                               |
 | ---                                                                                                      | ---                                                                                                                                                                                   |
@@ -54,8 +53,6 @@
 | [train.py](https://github.com/anonymous-atom/CLIP_From_Scratch/blob/master/train.py)                     | The train.py script trains a CLIP model, managing data loading, training steps, updating metrics, and learning rate retrieval.                              |
 | [CLIP.py](https://github.com/anonymous-atom/CLIP_From_Scratch/blob/master/CLIP.py)                       | CLIP.py defines a multimodal CLIP model, integrating image and text encoders with projection heads for joint embedding. |
 | [projection_head.py](https://github.com/anonymous-atom/CLIP_From_Scratch/blob/master/projection_head.py) | The `projection_head.py` defines a neural network module for transforming embeddings     |
-
-</details>
 
 ---
 
